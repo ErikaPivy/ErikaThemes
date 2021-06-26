@@ -1,0 +1,22 @@
+{
+    "name": "starless-night",
+    "displayName": "Starless night",
+    "description": "starless night",
+    "publisher": "Erika",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "starless night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/starless night-color-theme.json"
+            }
+        ]
+    }
+}
